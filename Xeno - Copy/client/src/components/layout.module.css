@@ -1,0 +1,14 @@
+.footerDiv{
+    margin-top: auto;
+    margin-bottom:0;
+}
+.layoutContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.children{
+    min-height: 70vh !important;
+}
+
+
